@@ -1,0 +1,128 @@
+Oct 11 14:50:24 client borg-backup[3573]: ------------------------------------------------------------------------------
+Oct 11 14:50:24 client borg-backup[3573]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 14:50:24 client borg-backup[3573]: Archive name: etc-2026-10-11_14:50:22
+Oct 11 14:50:24 client borg-backup[3573]: Archive fingerprint: 0d7ec85d2f299630d672d92c6b23cfda812ad0566c58abba9a1860d4c92f3fcf
+Oct 11 14:50:24 client borg-backup[3573]: Time (start): Sun, 2026-10-11 14:50:24
+Oct 11 14:50:24 client borg-backup[3573]: Time (end):   Sun, 2026-10-11 14:50:24
+Oct 11 14:50:24 client borg-backup[3573]: Duration: 0.33 seconds
+Oct 11 14:50:24 client borg-backup[3573]: Number of files: 706
+Oct 11 14:50:24 client borg-backup[3573]: Utilization of max. archive size: 0%
+Oct 11 14:50:24 client borg-backup[3573]: ------------------------------------------------------------------------------
+Oct 11 14:50:24 client borg-backup[3573]:                        Original size      Compressed size    Deduplicated size
+Oct 11 14:50:24 client borg-backup[3573]: This archive:                2.11 MB            930.00 kB                711 B
+Oct 11 14:50:24 client borg-backup[3573]: All archives:                6.32 MB              2.79 MB              1.11 MB
+Oct 11 14:50:24 client borg-backup[3573]:                        Unique chunks         Total chunks
+Oct 11 14:50:24 client borg-backup[3573]: Chunk index:                     674                 2087
+Oct 11 14:50:24 client borg-backup[3573]: ------------------------------------------------------------------------------
+Oct 11 14:55:39 client borg-backup[3592]: ------------------------------------------------------------------------------
+Oct 11 14:55:39 client borg-backup[3592]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 14:55:39 client borg-backup[3592]: Archive name: etc-2026-10-11_14:55:36
+Oct 11 14:55:39 client borg-backup[3592]: Archive fingerprint: d41ac1a49eeec13d8e5fc2fb362a9c80cbbc6da58f9132971c57b3ed6654d108
+Oct 11 14:55:39 client borg-backup[3592]: Time (start): Sun, 2026-10-11 14:55:38
+Oct 11 14:55:39 client borg-backup[3592]: Time (end):   Sun, 2026-10-11 14:55:39
+Oct 11 14:55:39 client borg-backup[3592]: Duration: 0.34 seconds
+Oct 11 14:55:39 client borg-backup[3592]: Number of files: 707
+Oct 11 14:55:39 client borg-backup[3592]: Utilization of max. archive size: 0%
+Oct 11 14:55:39 client borg-backup[3592]: ------------------------------------------------------------------------------
+Oct 11 14:55:39 client borg-backup[3592]:                        Original size      Compressed size    Deduplicated size
+Oct 11 14:55:39 client borg-backup[3592]: This archive:                2.11 MB            930.29 kB                857 B
+Oct 11 14:55:39 client borg-backup[3592]: All archives:                6.32 MB              2.79 MB              1.11 MB
+Oct 11 14:55:39 client borg-backup[3592]:                        Unique chunks         Total chunks
+Oct 11 14:55:39 client borg-backup[3592]: Chunk index:                     675                 2089
+Oct 11 14:55:39 client borg-backup[3592]: ------------------------------------------------------------------------------
+Oct 11 15:00:43 client borg-backup[3605]: ------------------------------------------------------------------------------
+Oct 11 15:00:43 client borg-backup[3605]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 15:00:43 client borg-backup[3605]: Archive name: etc-2026-10-11_15:00:40
+Oct 11 15:00:43 client borg-backup[3605]: Archive fingerprint: 1f54692f677571d2efe009e812076df415d90b907419d95531218595ce2ac36b
+Oct 11 15:00:43 client borg-backup[3605]: Time (start): Sun, 2026-10-11 15:00:43
+Oct 11 15:00:43 client borg-backup[3605]: Time (end):   Sun, 2026-10-11 15:00:43
+Oct 11 15:00:43 client borg-backup[3605]: Duration: 0.37 seconds
+Oct 11 15:00:43 client borg-backup[3605]: Number of files: 707
+Oct 11 15:00:43 client borg-backup[3605]: Utilization of max. archive size: 0%
+Oct 11 15:00:43 client borg-backup[3605]: ------------------------------------------------------------------------------
+Oct 11 15:00:43 client borg-backup[3605]:                        Original size      Compressed size    Deduplicated size
+Oct 11 15:00:43 client borg-backup[3605]: This archive:                2.11 MB            930.29 kB                604 B
+Oct 11 15:00:43 client borg-backup[3605]: All archives:                6.32 MB              2.79 MB              1.09 MB
+Oct 11 15:00:43 client borg-backup[3605]:                        Unique chunks         Total chunks
+Oct 11 15:00:43 client borg-backup[3605]: Chunk index:                     675                 2091
+Oct 11 15:00:43 client borg-backup[3605]: ------------------------------------------------------------------------------
+Oct 11 15:06:39 client borg-backup[3612]: ------------------------------------------------------------------------------
+Oct 11 15:06:39 client borg-backup[3612]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 15:06:39 client borg-backup[3612]: Archive name: etc-2026-10-11_15:06:36
+Oct 11 15:06:39 client borg-backup[3612]: Archive fingerprint: 33413f6c2042b3f76fdfc0596c79bda1bc3a4bd22c39261324b5318a8c6b9de4
+Oct 11 15:06:39 client borg-backup[3612]: Time (start): Sun, 2026-10-11 15:06:38
+Oct 11 15:06:39 client borg-backup[3612]: Time (end):   Sun, 2026-10-11 15:06:39
+Oct 11 15:06:39 client borg-backup[3612]: Duration: 0.35 seconds
+Oct 11 15:06:39 client borg-backup[3612]: Number of files: 707
+Oct 11 15:06:39 client borg-backup[3612]: Utilization of max. archive size: 0%
+Oct 11 15:06:39 client borg-backup[3612]: ------------------------------------------------------------------------------
+Oct 11 15:06:39 client borg-backup[3612]:                        Original size      Compressed size    Deduplicated size
+Oct 11 15:06:39 client borg-backup[3612]: This archive:                2.11 MB            930.29 kB                606 B
+Oct 11 15:06:39 client borg-backup[3612]: All archives:                6.32 MB              2.79 MB              1.04 MB
+Oct 11 15:06:39 client borg-backup[3612]:                        Unique chunks         Total chunks
+Oct 11 15:06:39 client borg-backup[3612]: Chunk index:                     674                 2091
+Oct 11 15:06:39 client borg-backup[3612]: ------------------------------------------------------------------------------
+Oct 11 15:11:57 client borg-backup[3630]: ------------------------------------------------------------------------------
+Oct 11 15:11:57 client borg-backup[3630]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 15:11:57 client borg-backup[3630]: Archive name: etc-2026-10-11_15:11:54
+Oct 11 15:11:57 client borg-backup[3630]: Archive fingerprint: 7b061587123b92e7ac03fbb5c6fbc3018ef67c7fca6cc2fb1b24c592acaa1bd2
+Oct 11 15:11:57 client borg-backup[3630]: Time (start): Sun, 2026-10-11 15:11:57
+Oct 11 15:11:57 client borg-backup[3630]: Time (end):   Sun, 2026-10-11 15:11:57
+Oct 11 15:11:57 client borg-backup[3630]: Duration: 0.35 seconds
+Oct 11 15:11:57 client borg-backup[3630]: Number of files: 707
+Oct 11 15:11:57 client borg-backup[3630]: Utilization of max. archive size: 0%
+Oct 11 15:11:57 client borg-backup[3630]: ------------------------------------------------------------------------------
+Oct 11 15:11:57 client borg-backup[3630]:                        Original size      Compressed size    Deduplicated size
+Oct 11 15:11:57 client borg-backup[3630]: This archive:                2.11 MB            930.29 kB                604 B
+Oct 11 15:11:57 client borg-backup[3630]: All archives:                6.32 MB              2.79 MB              1.04 MB
+Oct 11 15:11:57 client borg-backup[3630]:                        Unique chunks         Total chunks
+Oct 11 15:11:57 client borg-backup[3630]: Chunk index:                     674                 2091
+Oct 11 15:11:57 client borg-backup[3630]: ------------------------------------------------------------------------------
+Oct 11 15:17:19 client borg-backup[3642]: ------------------------------------------------------------------------------
+Oct 11 15:17:19 client borg-backup[3642]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 15:17:19 client borg-backup[3642]: Archive name: etc-2026-10-11_15:17:15
+Oct 11 15:17:19 client borg-backup[3642]: Archive fingerprint: d60ba2d5cc657b6173e7eda28739f9ac8b2c47b84b8434a709a81eba3a6cdd64
+Oct 11 15:17:19 client borg-backup[3642]: Time (start): Sun, 2026-10-11 15:17:18
+Oct 11 15:17:19 client borg-backup[3642]: Time (end):   Sun, 2026-10-11 15:17:18
+Oct 11 15:17:19 client borg-backup[3642]: Duration: 0.35 seconds
+Oct 11 15:17:19 client borg-backup[3642]: Number of files: 707
+Oct 11 15:17:19 client borg-backup[3642]: Utilization of max. archive size: 0%
+Oct 11 15:17:19 client borg-backup[3642]: ------------------------------------------------------------------------------
+Oct 11 15:17:19 client borg-backup[3642]:                        Original size      Compressed size    Deduplicated size
+Oct 11 15:17:19 client borg-backup[3642]: This archive:                2.11 MB            930.29 kB                604 B
+Oct 11 15:17:19 client borg-backup[3642]: All archives:                6.32 MB              2.79 MB              1.04 MB
+Oct 11 15:17:19 client borg-backup[3642]:                        Unique chunks         Total chunks
+Oct 11 15:17:19 client borg-backup[3642]: Chunk index:                     674                 2091
+Oct 11 15:17:19 client borg-backup[3642]: ------------------------------------------------------------------------------
+Oct 11 15:22:38 client borg-backup[3651]: ------------------------------------------------------------------------------
+Oct 11 15:22:38 client borg-backup[3651]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 15:22:38 client borg-backup[3651]: Archive name: etc-2026-10-11_15:22:36
+Oct 11 15:22:38 client borg-backup[3651]: Archive fingerprint: 16d27152920e8cc064c2234c4c6d1de255c71457e6f17554ce55d6f1e24714ee
+Oct 11 15:22:38 client borg-backup[3651]: Time (start): Sun, 2026-10-11 15:22:38
+Oct 11 15:22:38 client borg-backup[3651]: Time (end):   Sun, 2026-10-11 15:22:38
+Oct 11 15:22:38 client borg-backup[3651]: Duration: 0.30 seconds
+Oct 11 15:22:38 client borg-backup[3651]: Number of files: 707
+Oct 11 15:22:38 client borg-backup[3651]: Utilization of max. archive size: 0%
+Oct 11 15:22:38 client borg-backup[3651]: ------------------------------------------------------------------------------
+Oct 11 15:22:38 client borg-backup[3651]:                        Original size      Compressed size    Deduplicated size
+Oct 11 15:22:38 client borg-backup[3651]: This archive:                2.11 MB            930.29 kB                604 B
+Oct 11 15:22:38 client borg-backup[3651]: All archives:                6.32 MB              2.79 MB              1.04 MB
+Oct 11 15:22:38 client borg-backup[3651]:                        Unique chunks         Total chunks
+Oct 11 15:22:38 client borg-backup[3651]: Chunk index:                     674                 2091
+Oct 11 15:22:38 client borg-backup[3651]: ------------------------------------------------------------------------------
+Oct 11 15:27:50 client borg-backup[3660]: ------------------------------------------------------------------------------
+Oct 11 15:27:50 client borg-backup[3660]: Repository: ssh://borg@192.168.11.150/var/backup
+Oct 11 15:27:50 client borg-backup[3660]: Archive name: etc-2026-10-11_15:27:47
+Oct 11 15:27:50 client borg-backup[3660]: Archive fingerprint: 1973df338f17612fe0c66a72b6ee7957656b71f6dc03f798c04a780bc1d2a84c
+Oct 11 15:27:50 client borg-backup[3660]: Time (start): Sun, 2026-10-11 15:27:49
+Oct 11 15:27:50 client borg-backup[3660]: Time (end):   Sun, 2026-10-11 15:27:50
+Oct 11 15:27:50 client borg-backup[3660]: Duration: 0.30 seconds
+Oct 11 15:27:50 client borg-backup[3660]: Number of files: 707
+Oct 11 15:27:50 client borg-backup[3660]: Utilization of max. archive size: 0%
+Oct 11 15:27:50 client borg-backup[3660]: ------------------------------------------------------------------------------
+Oct 11 15:27:50 client borg-backup[3660]:                        Original size      Compressed size    Deduplicated size
+Oct 11 15:27:50 client borg-backup[3660]: This archive:                2.11 MB            930.29 kB                606 B
+Oct 11 15:27:50 client borg-backup[3660]: All archives:                6.32 MB              2.79 MB              1.04 MB
+Oct 11 15:27:50 client borg-backup[3660]:                        Unique chunks         Total chunks
+Oct 11 15:27:50 client borg-backup[3660]: Chunk index:                     674                 2091
+Oct 11 15:27:50 client borg-backup[3660]: ------------------------------------------------------------------------------
